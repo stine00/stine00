@@ -1,5 +1,5 @@
 <h1 align="center">Hi ☁️, I'm Justine Abigail</h1>
-<h3 align="center">a ~ struggling ~ computer engineering student ˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆</h3>
+<h3 align="center">a computer engineering student ˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆</h3>
 <img align = "right" alt = "background" width = "400" src = "https://i.pinimg.com/originals/d3/60/f1/d360f1827f7996e9e0a3ccb6f584c848.gif">
 
 <p align="left"> 
