@@ -5,7 +5,6 @@
 <p align="left"> 
 🎀 '02 | she/her <br/>
 🏫 I am currently a 4th year Computer Engineering student at the Polytechnic University of the Philippines - Manila <br/>
-💌 reach me through my email, <b> justineabigailsantillan@gmail.com </b>
 </p>
 
 
